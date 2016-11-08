@@ -1,0 +1,13 @@
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_obj\Debug\RobotReg.CSharp.csprojResolveAssemblyReference.cache
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+E:\Users\Mike\Documents\RobotReg\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
